@@ -190,6 +190,7 @@
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstates/Content/Roxee_Content/Assets/worn_garden_table_lowpoly_texture_0.uasset",
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstates/Content/Roxee_Content/Assets/worn_garden_table_lowpoly_texture_1.uasset",
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstates/Content/Roxee_Content/Assets/worn_garden_table_lowpoly_texture_2.uasset",
+<<<<<<< HEAD
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstates/Content/StoryFramework/Core/UserInterface/Widgets/Interaction_W.uasset",
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstates/Content/StoryFramework/Core/Blueprints/Structures/NPCInteraction_S.uasset",
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstates/Content/StoryFramework/Core/Blueprints/Structures/NPCDialog_S.uasset",
@@ -226,6 +227,8 @@
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstates/Content/Virginia_Content/Clock/W_Clock_Auto4.uasset",
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstates/Content/Roxee_Content/W_Clock.uasset",
 				"C:/Users/Roxee.ROXEES_PC/Documents/Unreal Projects/EldritchEstates/Content/Virginia_Content/Clock/W_Clock.uasset",
+=======
+>>>>>>> origin/main
 				"D:/EldritchEstates/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/EldritchEstates/Content/Johns_Content/Blueprints/Core/Plots/Crop_InteractableBase_BP.uasset",
 				"D:/EldritchEstates/Content/Johns_Content/Blueprints/Core/Plots/PlotInteractableBase_BP.uasset",
